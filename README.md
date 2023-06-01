@@ -9,3 +9,6 @@ Android-приложение, написанное на Kotlin с использ
 
 Викторина состоит из одного вопроса, в конце игры вас ожидает скример.
 
+![Telegram_XI5CLcyIVZ](https://github.com/axelblatt/clevertina/assets/84366597/f981c989-3951-4c4e-890c-51fc21050730)
+
+![Telegram_bjWFNmilrx](https://github.com/axelblatt/clevertina/assets/84366597/a78c47d0-8a2f-4810-86e2-df5f9eee4247)
