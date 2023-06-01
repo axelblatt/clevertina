@@ -1,2 +1,2 @@
-# clevertina
+# Сlevertina
 Викторина с огоньком
